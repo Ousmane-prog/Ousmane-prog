@@ -14,5 +14,4 @@ I hold a Master's in Applied Mathematics to Biology and Statistics from Aix-Mars
 
 
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ousmane-prog)](https://github.com/anuraghazra/github-readme-stats)
