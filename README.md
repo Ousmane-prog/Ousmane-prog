@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Ousmane
-## I am a Research Engineer and PhD candidate in applied mathematics and statistics
+## I am a Research Engineer in applied mathematics and statistics
 
 I hold a Msc degree in Applied Mathematics to Biology and Statistics from Aix-Marseille University. Throughout my academic journey, I have developed strong skills in mathematical modeling,
 statistical analysis, computer science, and machine learning. Driven by a passion for interdisciplinary research, I am currently working as research engineer at MICS lab at centralesupelec. 
