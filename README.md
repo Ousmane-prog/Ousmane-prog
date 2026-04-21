@@ -9,7 +9,7 @@ You can check out my LinkedIN at [<img src='https://cdn.jsdelivr.net/npm/simple-
 
 **Programming:** Julia, Python, R, SQL, JavaScript  
 **Web Development:** HTML, CSS  
-**Version Control:** Git, GitHub
+**Version Control:** Git, GitHub, GitLab
 
 ## Interests
 
