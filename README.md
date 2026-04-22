@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Ousmane
-## I am a Research Engineer in applied mathematics and statistics
+## a Scientific Computing Engineer
 
 I hold a Msc degree in Applied Mathematics to Biology and Statistics from Aix-Marseille University. Throughout my academic journey, I have developed strong skills in mathematical modeling,
 statistical analysis, computer science, and machine learning. Driven by a passion for interdisciplinary research, I currently work as a Scientific Computing Engineer at MISTEA, a research lab of INRAE, specializing in mathematics, computer science, and statistics for environmental and agricultural applications.
